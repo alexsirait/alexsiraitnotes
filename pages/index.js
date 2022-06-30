@@ -8,7 +8,7 @@ export default function Home() {
       </div>
       <h1 className='text-white text-2xl font-semibold tracking-tighter mb-5'>Alex Sirait</h1>
       <div className="text-white leading-loose text-md md:text-lg">
-        <p className="mb-5">I am a Creative Full-Stack Web Developer and an Informatics Engineering Student, who loves building things, solve problems and learn new things. 🚀</p>
+        <p className="mb-5">I am a <span className="underline underline-offset-1 decoration-dotted">Creative Full-Stack Web Developer</span> and an Informatics Engineering Student, who loves building things, solve problems and learn new things. 🚀</p>
         <a
               className="text-sky-400 hover:text-sky-500 transition-colors duration-500 shadow-undersky underline underline-offset-1"
               href="https://drive.google.com/file/d/1cyT2XgHUrpaukY9Hzs34vpTZ0EJl6O3c/view?usp=sharing"
