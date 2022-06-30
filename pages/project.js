@@ -78,7 +78,7 @@ export default function cv() {
           </div>
           <div className="mb-5 border p-8 rounded-lg block md:flex items-center gap-x-4">
             <div className="md:px-6">
-              <Image src={SS4} alt='TracerStudy' width={'240px'} height={'150px'} />
+              <Image src={SS4} alt='TracerStudy' width={'220px'} height={'150px'} />
             </div>
             <div>
               <span className="mb-2 block font-semibold text-xl font-sans tracking-tighter">alexsiraitnotes</span>
